@@ -1,7 +1,7 @@
 # SomnGuard
 
 <p align="center">
-  <img src="./logo/logo.svg" alt="SomnGuard Logo" width="200"/>
+  <img src="../logo/logo.svg" alt="SomnGuard Logo" width="200"/>
 </p>
 
 <p align="center">
