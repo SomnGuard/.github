@@ -43,7 +43,7 @@ Formative project — team of 4 members. Repository under active development.
 | Backend           | C# / .NET          |
 | Web Frontend      | React              |
 | Mobile App        | React Native       |
-| Database          | MySQL              |
+| Database          | PostgreSQL              |
 
 ---
 
@@ -77,7 +77,7 @@ SomnGuard/
    [ Web Dashboard (React) ]   [ Mobile App (React Native) ]
             └─────────────┬──────────────┘
                           ▼
-                  [ MySQL Database ]
+                  [ PostgreSQL Database ]
 ```
 
 ---
