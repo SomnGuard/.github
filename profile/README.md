@@ -52,7 +52,7 @@ Formative project — team of 4 members. Repository under active development.
 ```
 SomnGuard/
 ├── hardware/      # Python scripts — facial analysis, detection, alerts
-├── backend/       # API and services in C# (.NET)
+├── backend/       # API and services in Java / Spring Boot
 ├── web/           # Web dashboard in React
 ├── mobile/        # Mobile application in React Native
 ├── docs/          # SRS, diagrams, technical documentation
@@ -70,7 +70,7 @@ SomnGuard/
                   Event logging
                           │
                           ▼
-               [ Backend API (C# / .NET) ]
+               [ Backend API (Java / Spring Boot) ]
                           │
             ┌─────────────┴──────────────┐
             ▼                             ▼
@@ -94,7 +94,7 @@ SomnGuard/
 
 ## 📌 Project Status
 
-> 🔒 The repository is under development and will be made public soon.
+> 🟢 The repository is public.
 
 ---
 
