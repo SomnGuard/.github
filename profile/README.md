@@ -40,7 +40,7 @@ Formative project — team of 4 members. Repository under active development.
 | Component         | Technology         |
 |-------------------|--------------------|
 | Device            | Python             |
-| Backend           | C# / .NET          |
+| Backend           | Java / Spring Boot |
 | Web Frontend      | React              |
 | Mobile App        | React Native       |
 | Database          | PostgreSQL              |
