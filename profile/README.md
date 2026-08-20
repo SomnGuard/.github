@@ -43,7 +43,7 @@ Formative project — team of 4 members. Repository under active development.
 | Backend           | Java / Spring Boot |
 | Web Frontend      | React              |
 | Mobile App        | React Native       |
-| Database          | PostgreSQL              |
+| Database          | PostgreSQL         |
 
 ---
 
@@ -70,7 +70,7 @@ SomnGuard/
                   Event logging
                           │
                           ▼
-               [ Backend API (Java / Spring Boot) ]
+         [ Backend API (Java / Spring Boot) ]
                           │
             ┌─────────────┴──────────────┐
             ▼                             ▼
